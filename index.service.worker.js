@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1793493150|31117823';
+const CACHE_VERSION = '1793493903|29995327';
 /** @type {string} */
 const CACHE_PREFIX = '불침번 Night Watch-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
